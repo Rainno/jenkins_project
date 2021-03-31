@@ -1,6 +1,6 @@
 class TestLogin:
 
-    def test_login001(self):
+    def test_login01(self):
         assert 0
 
     def test_login002(self):
